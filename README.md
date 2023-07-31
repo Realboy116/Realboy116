@@ -6,3 +6,7 @@
 - Study software quality control tools.
 - I apply theory into practice.
 - I like outdoor activities.
+
+### Tools and skills:
+
+![Git](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3130313031303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974)
