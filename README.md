@@ -16,4 +16,4 @@
 
 
 ### Connect with me:
-[![Telegram](https://github.com/Realboy116/Realboy116/blob/main/files/telegram.svg?short_path=63a1683)](https://t.me/Realboy116)  [![Linkedin](https://github.com/Realboy116/Realboy116/blob/main/files/lkdn.svg)](https://www.linkedin.com/in/shuhrat-abduraimov-308573236)
+[![Telegram](https://github.com/Realboy116/Realboy116/blob/main/files/telegram.svg?short_path=63a1683)](https://t.me/Realboy116)  [![Linkedin](https://github.com/Realboy116/Realboy116/blob/main/files/lkdn.svg?short_path=a9a9cae)](https://www.linkedin.com/in/shuhrat-abduraimov-308573236)
