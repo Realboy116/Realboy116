@@ -16,4 +16,4 @@
 
 
 ### Connect with me:
-[![Telegram]](https://github.com/Realboy116/Realboy116/blob/main/files/telegram.svg?short_path=63a1683)(https://t.me/Realboy116)
+[![Telegram](https://github.com/Realboy116/Realboy116/blob/main/files/telegram.svg?short_path=63a1683)](https://t.me/Realboy116)
