@@ -14,6 +14,7 @@
 ![Postman](https://github.com/Realboy116/Realboy116/blob/main/files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3130313031303f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e.svg)
 ![Python](https://github.com/Realboy116/Realboy116/blob/main/files/python%20(2).svg)
 ![VsCode](https://github.com/Realboy116/Realboy116/blob/main/files/vscode.svg)
+![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=PostgreSQL)
 
 
 ### Connect with me:
