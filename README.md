@@ -15,6 +15,9 @@
 ![Python](https://github.com/Realboy116/Realboy116/blob/main/files/python%20(2).svg)
 ![VsCode](https://github.com/Realboy116/Realboy116/blob/main/files/vscode.svg)
 ![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=PostgreSQL)
+![JMeter](https://img.shields.io/badge/Jmeter-101010?style=for-the-badge&logo=Apachejmeter)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-101010?style=for-the-badge&logo=googlechrome)
+![Testing Theory](https://img.shields.io/badge/Testing_Theory-101010?style=for-the-badge&logo=Testing)
 
 
 ### Connect with me:
