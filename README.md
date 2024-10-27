@@ -16,6 +16,7 @@
 ![VsCode](https://github.com/Realboy116/Realboy116/blob/main/files/vscode.svg)
 ![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=PostgreSQL)
 ![JMeter](https://img.shields.io/badge/Jmeter-101010?style=for-the-badge&logo=Apachejmeter)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-101010?style=for-the-badge&logo=charlesproxy)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-101010?style=for-the-badge&logo=googlechrome)
 ![Testing Theory](https://img.shields.io/badge/Testing_Theory-101010?style=for-the-badge&logo=Testing)
 
